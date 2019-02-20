@@ -1,2 +1,2 @@
-# S-t-bor_OWT
+# SkiingCamp_OWT
 Sítábor_OWT
